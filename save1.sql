@@ -1,3 +1,4 @@
+--this query looks good
 dashboard_automationselect a.run_month, a.widget_name, a.active_status, a.click_desktop_e,a1.click_desktop_f,
 a2."click_mobile/tablet_h",a3."click_mobile/tablet_i"
 from acsd1_ddl.vw_mytest1 a,
